@@ -1,0 +1,11 @@
+C:\Users\MU8 Guest\source\repos\Opgave 3\Opgave 3\bin\Debug\netcoreapp2.1\Opgave 3.deps.json
+C:\Users\MU8 Guest\source\repos\Opgave 3\Opgave 3\bin\Debug\netcoreapp2.1\Opgave 3.runtimeconfig.json
+C:\Users\MU8 Guest\source\repos\Opgave 3\Opgave 3\bin\Debug\netcoreapp2.1\Opgave 3.runtimeconfig.dev.json
+C:\Users\MU8 Guest\source\repos\Opgave 3\Opgave 3\bin\Debug\netcoreapp2.1\Opgave 3.dll
+C:\Users\MU8 Guest\source\repos\Opgave 3\Opgave 3\bin\Debug\netcoreapp2.1\Opgave 3.pdb
+C:\Users\MU8 Guest\source\repos\Opgave 3\Opgave 3\obj\Debug\netcoreapp2.1\Opgave 3.csprojAssemblyReference.cache
+C:\Users\MU8 Guest\source\repos\Opgave 3\Opgave 3\obj\Debug\netcoreapp2.1\Opgave 3.csproj.CoreCompileInputs.cache
+C:\Users\MU8 Guest\source\repos\Opgave 3\Opgave 3\obj\Debug\netcoreapp2.1\Opgave 3.AssemblyInfoInputs.cache
+C:\Users\MU8 Guest\source\repos\Opgave 3\Opgave 3\obj\Debug\netcoreapp2.1\Opgave 3.AssemblyInfo.cs
+C:\Users\MU8 Guest\source\repos\Opgave 3\Opgave 3\obj\Debug\netcoreapp2.1\Opgave 3.dll
+C:\Users\MU8 Guest\source\repos\Opgave 3\Opgave 3\obj\Debug\netcoreapp2.1\Opgave 3.pdb
