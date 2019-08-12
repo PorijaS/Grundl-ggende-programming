@@ -1,0 +1,11 @@
+C:\Users\MU8 Guest\source\repos\Opgave 8\Opgave 8\bin\Debug\netcoreapp2.1\Opgave 8.deps.json
+C:\Users\MU8 Guest\source\repos\Opgave 8\Opgave 8\bin\Debug\netcoreapp2.1\Opgave 8.runtimeconfig.json
+C:\Users\MU8 Guest\source\repos\Opgave 8\Opgave 8\bin\Debug\netcoreapp2.1\Opgave 8.runtimeconfig.dev.json
+C:\Users\MU8 Guest\source\repos\Opgave 8\Opgave 8\bin\Debug\netcoreapp2.1\Opgave 8.dll
+C:\Users\MU8 Guest\source\repos\Opgave 8\Opgave 8\bin\Debug\netcoreapp2.1\Opgave 8.pdb
+C:\Users\MU8 Guest\source\repos\Opgave 8\Opgave 8\obj\Debug\netcoreapp2.1\Opgave 8.csprojAssemblyReference.cache
+C:\Users\MU8 Guest\source\repos\Opgave 8\Opgave 8\obj\Debug\netcoreapp2.1\Opgave 8.csproj.CoreCompileInputs.cache
+C:\Users\MU8 Guest\source\repos\Opgave 8\Opgave 8\obj\Debug\netcoreapp2.1\Opgave 8.AssemblyInfoInputs.cache
+C:\Users\MU8 Guest\source\repos\Opgave 8\Opgave 8\obj\Debug\netcoreapp2.1\Opgave 8.AssemblyInfo.cs
+C:\Users\MU8 Guest\source\repos\Opgave 8\Opgave 8\obj\Debug\netcoreapp2.1\Opgave 8.dll
+C:\Users\MU8 Guest\source\repos\Opgave 8\Opgave 8\obj\Debug\netcoreapp2.1\Opgave 8.pdb
