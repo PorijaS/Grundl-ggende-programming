@@ -1,0 +1,11 @@
+C:\Users\MU8 Guest\source\repos\Opgave 6 igen\Opgave 6 igen\bin\Debug\netcoreapp2.1\Opgave 6 igen.deps.json
+C:\Users\MU8 Guest\source\repos\Opgave 6 igen\Opgave 6 igen\bin\Debug\netcoreapp2.1\Opgave 6 igen.runtimeconfig.json
+C:\Users\MU8 Guest\source\repos\Opgave 6 igen\Opgave 6 igen\bin\Debug\netcoreapp2.1\Opgave 6 igen.runtimeconfig.dev.json
+C:\Users\MU8 Guest\source\repos\Opgave 6 igen\Opgave 6 igen\bin\Debug\netcoreapp2.1\Opgave 6 igen.dll
+C:\Users\MU8 Guest\source\repos\Opgave 6 igen\Opgave 6 igen\bin\Debug\netcoreapp2.1\Opgave 6 igen.pdb
+C:\Users\MU8 Guest\source\repos\Opgave 6 igen\Opgave 6 igen\obj\Debug\netcoreapp2.1\Opgave 6 igen.csprojAssemblyReference.cache
+C:\Users\MU8 Guest\source\repos\Opgave 6 igen\Opgave 6 igen\obj\Debug\netcoreapp2.1\Opgave 6 igen.csproj.CoreCompileInputs.cache
+C:\Users\MU8 Guest\source\repos\Opgave 6 igen\Opgave 6 igen\obj\Debug\netcoreapp2.1\Opgave 6 igen.AssemblyInfoInputs.cache
+C:\Users\MU8 Guest\source\repos\Opgave 6 igen\Opgave 6 igen\obj\Debug\netcoreapp2.1\Opgave 6 igen.AssemblyInfo.cs
+C:\Users\MU8 Guest\source\repos\Opgave 6 igen\Opgave 6 igen\obj\Debug\netcoreapp2.1\Opgave 6 igen.dll
+C:\Users\MU8 Guest\source\repos\Opgave 6 igen\Opgave 6 igen\obj\Debug\netcoreapp2.1\Opgave 6 igen.pdb
